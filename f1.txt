@@ -1,1 +1,4 @@
 I am first file in A git repository for 01-App
+This is f1 line 1
+This is f1 line 2
+This is f1 line 3
