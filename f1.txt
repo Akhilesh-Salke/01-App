@@ -3,3 +3,4 @@ You are at second line
 You are at third line
 You are at fourth line
 You are at fifth line
+int b = 4;
